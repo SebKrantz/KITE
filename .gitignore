@@ -4,3 +4,11 @@
 KITE.Rproj
 /dev/
 CLAUDE.md
+misc/.DS_Store
+
+# data/ — track scripts, README, and final assembled file; exclude raw inputs and intermediates
+data/raw/
+data/01_*.rds
+data/02_*.rds
+data/03_*.rds
+data/04_*.rds
